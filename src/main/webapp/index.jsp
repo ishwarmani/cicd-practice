@@ -7,6 +7,5 @@
 <h2>Tesing ansible installation</h2>
 <h2>Tesing ansible installation again<h2>
 <h2>Tesing ansible script run with git<h2>
-<h2>Adding final deployment 0.1</h2>
-</body>
+<h2>Adding final deployment 0.1</h2><h2>Adding final deployment 0.2</h2>
 </html>
