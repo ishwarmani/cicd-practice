@@ -84,7 +84,7 @@ for more info ask for jenkins current build logs''', cc: '', from: '', replyTo: 
                 echo 'Everything ran successfully'
                 sh 'rm -rf /tmp/ishwar-ansible/'
                 mail bcc: '', body: '''Hey we did it successfully!!!
-all the pipeline with all stages are running successfully''', cc: 'ishwarmanithapa@gmail.com', from: '', replyTo: '', subject: 'congratulations -- we did it ', to: 'ashutoshhsingh93@gmail.com'
+all the pipeline with all stages are running successfully''', cc: '', from: '', replyTo: '', subject: 'congratulations -- we did it ', to: 'ishwarmanithapa@gmail.com'
            
             }
             failure {
